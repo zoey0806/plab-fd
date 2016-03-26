@@ -1,0 +1,3 @@
+We are using PlanetLab to study distributed failure detection. First, we intend to measure and collect data about network delay roundtrip times (RTT) in a global environment. The collected data will give us a snapshot of real network conditions of some distributed (PlanetLab) nodes. We will use this data to develop and calibrate a Distributed Failure Detector (DFD), having PlanetLab nodes/slices as the target system.
+
+The idea is to use PlanetLab as both a measurement testbed for experiments with real network parameters and as a target architecture, to create a customizable failure detector for nodes/slices.
